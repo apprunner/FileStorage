@@ -1,0 +1,242 @@
+[
+            {
+                "Name": "Aatrox",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Aatrox.png",
+                "ability": {
+                    "life": "580 (+90 每級)",
+                    "magic": "0 (+0 每級)",
+                    "attack": "60 (+5 每級)",
+                    "attack-distance": "175"
+                }
+            },
+            {
+                "Name": "Ahri",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Ahri.png",
+
+                "ability": {
+                    "life": "526 (+92 每級)",
+                    "magic": "418 (+25 每級)",
+                    "attack": "53.04 (+3 每級)",
+                    "attack-distance": "550"
+                }
+            },
+            {
+                "Name": "Akali",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Akali.png",
+
+                "ability": {
+                    "life": "575 (+95 每級)",
+                    "magic": "200 (+0 每級)",
+                    "attack": "62.4 (+3.3 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Alistar",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Alistar.png",
+
+                "ability": {
+                    "life": "600 (+106 每級)",
+                    "magic": "350 (+40 每級)",
+                    "attack": "62 (+3.75 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Amumu",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Amumu.png",
+
+                "ability": {
+                    "life": "613.12 (+84 每級)",
+                    "magic": "287.2 (+40 每級)",
+                    "attack": "53.38 (+3.8 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Anivia",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Anivia.png",
+
+                "ability": {
+                    "life": "480 (+82 每級)",
+                    "magic": "495 (+25 每級)",
+                    "attack": "51.376 (+3.2 每級)",
+                    "attack-distance": "600"
+                }
+            },
+            {
+                "Name": "Annie",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Annie.png",
+
+                "ability": {
+                    "life": "524 (+88 每級)",
+                    "magic": "418 (+25 每級)",
+                    "attack": "50.41 (+2.625 每級)",
+                    "attack-distance": "625"
+                }
+            },
+            {
+                "Name": "Darius",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Darius.png",
+
+                "ability": {
+                    "life": "582.24 (+100 每級)",
+                    "magic": "263 (+37.5 每級)",
+                    "attack": "64 (+5 每級)",
+                    "attack-distance": "175"
+                }
+            },
+            {
+                "Name": "Ashe",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Ashe.png",
+
+                "ability": {
+                    "life": "539 (+85 每級)",
+                    "magic": "280 (+32 每級)",
+                    "attack": "61 (+2.96 每級)",
+                    "attack-distance": "600"
+                }
+            },
+            {
+                "Name": "Aurelion-Sol",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/AurelionSol.png",
+
+
+                "ability": {
+                    "life": "575 (+92 每級)",
+                    "magic": "350 (+50 每級)",
+                    "attack": "57 (+3.2 每級)",
+                    "attack-distance": "550"
+                }
+            },
+            {
+                "Name": "Azir",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Azir.png",
+
+                "ability": {
+                    "life": "552 (+92 每級)",
+                    "magic": "480 (+21 每級)",
+                    "attack": "52 (+2.8 每級)",
+                    "attack-distance": "525"
+                }
+            },
+            {
+                "Name": "Bard",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Bard.png",
+
+                "ability": {
+                    "life": "575 (+89 每級)",
+                    "magic": "350 (+50 每級)",
+                    "attack": "52 (+3 每級)",
+                    "attack-distance": "500"
+                }
+            },
+            {
+                "Name": "Blitzcrank",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Blitzcrank.png",
+
+                "ability": {
+                    "life": "582.6 (+95 每級)",
+                    "magic": "267.2 (+40 每級)",
+                    "attack": "61.54 (+3.5 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Brand",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Brand.png",
+
+                "ability": {
+                    "life": "519.68 (+88 每級)",
+                    "magic": "469 (+21 每級)",
+                    "attack": "57.04 (+3 每級)",
+                    "attack-distance": "550"
+                }
+            },
+            {
+                "Name": "Braum",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Braum.png",
+
+                "ability": {
+                    "life": "540 (+98 每級)",
+                    "magic": "310.6 (+45 每級)",
+                    "attack": "55.376 (+3.2 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Caitlyn",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Caitlyn.png",
+
+                "ability": {
+                    "life": "481 (+91 每級)",
+                    "magic": "313.7 (+35 每級)",
+                    "attack": "62 (+2.88 每級)",
+                    "attack-distance": "650"
+                }
+            },
+            {
+                "Name": "Camille",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Camille.png",
+
+                "ability": {
+                    "life": "575.6 (+85 每級)",
+                    "magic": "338.8 (+32 每級)",
+                    "attack": "68 (+3.5 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Cassiopeia",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Cassiopeia.png",
+
+                "ability": {
+                    "life": "575 (+90 每級)",
+                    "magic": "350 (+40 每級)",
+                    "attack": "53 (+3 每級)",
+                    "attack-distance": "550"
+                }
+            },
+            {
+                "Name": "Cho-Gath",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Chogath.png",
+
+                "ability": {
+                    "life": "574.4 (+80 每級)",
+                    "magic": "272.2 (+40 每級)",
+                    "attack": "69 (+4.2 每級)",
+                    "attack-distance": "125"
+                }
+            },
+            {
+                "Name": "Corki",
+                "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
+                "icon": "http://ddragon.leagueoflegends.com/cdn/8.11.1/img/champion/Corki.png",
+
+                "ability": {
+                    "life": "518 (+87 每級)",
+                    "magic": "350.16 (+34 每級)",
+                    "attack": "55 (+2.5 每級)",
+                    "attack-distance": "550"
+                }
+            }
+        ]
