@@ -1,0 +1,43 @@
+{
+    "Version":"v1.0",
+    "Release":"2021/01/14",
+    "Women":{
+        "Banner":"50657_1010X400_201203_TW.jpg",
+        "Data":[
+            { "Id": "W001", "Description":"史努比系列寬版條紋印花T恤-33-女（黃白條 -S）", "Price": 299, "Image":"52838_M_01_n.jpg"},
+            { "Id": "W002", "Description":"史努比系列寬版條紋印花T恤-32-女（湖綠條 -S）", "Price": 299, "Image":"53406_M_01_n.jpg"},
+            { "Id": "W003", "Description":"可口可樂羅紋配色印花T恤-14-女（白色 -S）", "Price": 299, "Image":"52847_M_01_n.jpg"},
+            { "Id": "W004", "Description":"Tom & Jerry寬版印花T恤-08-女（深灰 -S）", "Price": 299, "Image":"53254_M_01_n.jpg"},
+            { "Id": "W005", "Description":"Hello Kitty印花T恤-02-女（藏青 -S）", "Price": 299, "Image":"52803_M_01_n.jpg"},
+            { "Id": "W006", "Description":"Hello Kitty印花T恤-07-女（白色 -S）", "Price": 299, "Image":"52855_M_01_n.jpg"},
+            { "Id": "W007", "Description":"BARBAPAPA口袋印花T恤-07-女（麻灰 -S）", "Price": 299, "Image":"52840_M_01_n.jpg"},
+            { "Id": "W008", "Description":"史努比系列口袋印花T恤-37-女（暖黃 -S）", "Price": 299, "Image":"52874_M_01_n.jpg"}
+        ]
+    },
+    "Men":{
+        "Banner":"44261_1010X400_201230_TW.jpg",
+        "Data":[
+            { "Id": "M001", "Description":"史努比系列寬版條紋印花T恤-33-男（黃白條 -S）", "Price": 299, "Image":"52838_M_01_n.jpg"},
+            { "Id": "M002", "Description":"史努比系列寬版條紋印花T恤-32-男（湖綠條 -S）", "Price": 299, "Image":"53406_M_01_n.jpg"},
+            { "Id": "M003", "Description":"可口可樂羅紋配色印花T恤-14-男（白色 -S）", "Price": 299, "Image":"52847_M_01_n.jpg"},
+            { "Id": "M004", "Description":"Tom & Jerry寬版印花T恤-08-男（深灰 -S）", "Price": 299, "Image":"53254_M_01_n.jpg"},
+            { "Id": "M005", "Description":"Hello Kitty印花T恤-02-男（藏青 -S）", "Price": 299, "Image":"52803_M_01_n.jpg"},
+            { "Id": "M006", "Description":"Hello Kitty印花T恤-07-男（白色 -S）", "Price": 299, "Image":"52855_M_01_n.jpg"},
+            { "Id": "M007", "Description":"BARBAPAPA口袋印花T恤-07-男（麻灰 -S）", "Price": 299, "Image":"52840_M_01_n.jpg"},
+            { "Id": "M008", "Description":"史努比系列口袋印花T恤-37-男（暖黃 -S）", "Price": 299, "Image":"52874_M_01_n.jpg"}
+        ]
+    },
+    "Kids":{
+        "Banner":"50909_1010X400_210108_TW.jpg",
+        "Data":[
+            { "Id": "K001", "Description":"史努比系列寬版條紋印花T恤-33-童（黃白條 -S）", "Price": 299, "Image":"52838_M_01_n.jpg"},
+            { "Id": "K002", "Description":"史努比系列寬版條紋印花T恤-32-童（湖綠條 -S）", "Price": 299, "Image":"53406_M_01_n.jpg"},
+            { "Id": "K003", "Description":"可口可樂羅紋配色印花T恤-14-童（白色 -S）", "Price": 299, "Image":"52847_M_01_n.jpg"},
+            { "Id": "K004", "Description":"Tom & Jerry寬版印花T恤-08-童（深灰 -S）", "Price": 299, "Image":"53254_M_01_n.jpg"},
+            { "Id": "K005", "Description":"Hello Kitty印花T恤-02-童（藏青 -S）", "Price": 299, "Image":"52803_M_01_n.jpg"},
+            { "Id": "K006", "Description":"Hello Kitty印花T恤-07-童（白色 -S）", "Price": 299, "Image":"52855_M_01_n.jpg"},
+            { "Id": "K007", "Description":"BARBAPAPA口袋印花T恤-07-童（麻灰 -S）", "Price": 299, "Image":"52840_M_01_n.jpg"},
+            { "Id": "K008", "Description":"史努比系列口袋印花T恤-37-童（暖黃 -S）", "Price": 299, "Image":"52874_M_01_n.jpg"}
+        ]
+    }
+}
