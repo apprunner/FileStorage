@@ -18,5 +18,5 @@
     { "id":"D002", "color": "銀色",  "price": 28200, "storage":"256GB", "network": "Cellular", "picture":"silver.png" },
     { "id":"D003", "color": "玫瑰金色",  "price": 28200, "storage":"256GB", "network": "Cellular", "picture":"rose.png" },
     { "id":"D004", "color": "綠色",  "price": 28200, "storage":"256GB", "network": "Cellular", "picture":"green.png" },
-    { "id":"D005", "color": "Blue",  "price": 28200, "storage":"256GB", "network": "Cellular", "picture":"blue.png" }
+    { "id":"D005", "color": "天藍色",  "price": 28200, "storage":"256GB", "network": "Cellular", "picture":"blue.png" }
 ]
