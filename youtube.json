@@ -1,3 +1,4 @@
 [
-    { "id":"01", "video":"<iframe width='560' height='315' src='https://www.youtube.com/embed/aex2FMk1_Yw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}
+    { "id":"01", "video":"<iframe width='560' height='315' src='https://www.youtube.com/embed/aex2FMk1_Yw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"},
+    { "id":"02", "video":"<iframe width='560' height='315' src='https://www.youtube.com/embed/0EzoB-fcxrM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"}
 ]
