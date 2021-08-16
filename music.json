@@ -3,9 +3,7 @@
         { "videoid":"zNfP2LKhVG8", "channel":"Fei Sun" , "title":"《半山听雨》","subtitle":"杨青", "author":"杨青" , "Rating":10 },
         { "videoid":"qNN09BuybAE", "channel":"Fei Sun" , "title":"《梅花三弄》", "subtitle":"巫娜", "author":"巫娜" , "Rating":6},
         { "videoid":"U_bGOpG46n0", "channel":"Fei Sun" , "title":"《寒潭疏影》", "subtitle":"马常胜", "author":"马常胜" , "Rating":8 },
-        { "videoid":"4Yr3X-b5AgE", "channel":"Fei Sun" , "title":"《弦音枕流》", "subtitle":" 马常胜", "author":" 马常胜" , "Rating":8 },
-        { "videoid":"IUxrf4d9V94", "channel":"廖雪靈修室" , "title":"必聽【古琴名曲】", "subtitle":"GUQIN打坐必聽打開第三眼引導松果體音樂" , "author":"杨青" , "Rating":8 },
-        { "videoid":"KBiR91UoSRE", "channel":"Instrumental Music" , "title":"Kitaro Greatest Hits", "subtitle":" Kitaro The Best Of (Full Album) 2020 - Kitaro Playlist 2020 Vol. 2", "author":" 马常胜" , "Rating":10 }
+        { "videoid":"4Yr3X-b5AgE", "channel":"Fei Sun" , "title":"《弦音枕流》", "subtitle":" 马常胜", "author":" 马常胜" , "Rating":8 }
     ],
     "Jazz":[
         { "videoid":"eRO4gAbSocc", "channel":"Cafe Music BGM channel" , "title":"Night Jazz Music","subtitle":"Calm Cafe Music - Jazz Instrumental Music For Sleep, Study, Relax", "author":"" , "Rating":10 },
@@ -15,9 +13,6 @@
         { "videoid":"zWTLJI6CcuM", "channel":"Coffee Shop Music" , "title":"Winter Coffee Shop Music", "subtitle":"Ambience with Smooth Jazz Music for Relaxation and Stress Relief", "author":"none" , "Rating":10 },
         { "videoid":"MEmvk3ZSs0M", "channel":"BGM channel" , "title":"Morning Cafe Jazz", "subtitle":"Piano & Guitar Jazz & Bossa Nova Music For Study, Work", "author":"none" , "Rating":7 },
         { "videoid":"R5MYVWmTF7Y", "channel":"Little Love Jazz" , "title":"東京書籍和咖啡店氛圍", "subtitle":"書咖啡館的聲音，咖啡館的聲音，爵士樂，書店ASMR", "author":"" , "Rating":7 }
-    ],
-    "Lounge":[
-        { "videoid":"2aSwy2sJVI8", "channel":"Music Brokers" , "title":"Lounge Sexiest Ladies", "subtitle":"Groove Messengers Feat. Jamaican Reggae Cuts", "author":"none" , "Rating":10 }
     ],
     "Template":[
         { "videoid":"", "channel":"" , "title":"", "subtitle":"", "author":"" , "Rating":10 }
