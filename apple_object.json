@@ -1,0 +1,443 @@
+{
+    "ipad" : [
+        {
+            "SKU": "iPad10th",
+            "裝置":"10th",
+            "圖片": [
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-blue.jpg", "./iPad/ipad-10th-gen-finish-select-202212-blue_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-blue_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-blue-2022.png",
+                    "顏色": "藍色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-pink.jpg", "./iPad/ipad-10th-gen-finish-select-202212-pink_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-pink_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-pink-2022.png",
+                    "顏色": "粉紅色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-silver.jpg", "./iPad/ipad-10th-gen-finish-select-202212-silver_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-silver_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-silver-2022.png",
+                    "顏色": "銀色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-yellow.jpg", "./iPad/ipad-10th-gen-finish-select-202212-yellow_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-yellow_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-yellow-2022.png",
+                    "顏色": "黃色"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "64GB",
+                    "價格": 1000
+                },
+                {
+                    "大小": "128GB",
+                    "價格": 2000
+                },
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "連線能力": [
+                { "種類": "wifi", "價格": 0 },
+                { "種類": "WiFi+行動網路", "價格": 1000 }
+            ],
+            "周邊設備": {
+                "Apple Pencil": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ],
+                "Apple Pencil 轉接器": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ],
+                "鍵盤": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ]
+            },
+            "換購方案": [
+                {
+                    "方案": "不加入換購方案",
+                    "優惠": 0
+                }, {
+                    "方案": "加入換購方案",
+                    "優惠": -1200
+                }
+            ],
+            "價格": "19900"
+        }, {
+            "SKU": "iPad13th",
+            "裝置":"13th",
+            "圖片": [
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-blue.jpg", "./iPad/ipad-10th-gen-finish-select-202212-blue_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-blue_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-blue-2022.png",
+                    "顏色": "藍色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-pink.jpg", "./iPad/ipad-10th-gen-finish-select-202212-pink_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-pink_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-pink-2022.png",
+                    "顏色": "粉紅色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-silver.jpg", "./iPad/ipad-10th-gen-finish-select-202212-silver_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-silver_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-silver-2022.png",
+                    "顏色": "銀色"
+                },
+                {
+                    "裝置圖片": ["./iPad/ipad-10th-gen-finish-select-202212-yellow.jpg", "./iPad/ipad-10th-gen-finish-select-202212-yellow_AV1.jpg", "./iPad/ipad-10th-gen-finish-select-202212-yellow_AV2.jpg"],
+                    "顏色圖片": "./iPad/ipad-10th-gen-finish-yellow-2022.png",
+                    "顏色": "黃色"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "64GB",
+                    "價格": 1000
+                },
+                {
+                    "大小": "128GB",
+                    "價格": 2000
+                },
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "連線能力": [
+                { "種類": "wifi", "價格": 0 },
+                { "種類": "WiFi+行動網路", "價格": 1000 }
+            ],
+            "鐫刻": [
+                "鐫刻",
+                "不鐫刻"
+            ],
+            "周邊設備": {
+                "Apple Pencil": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ],
+                "Apple Pencil 轉接器": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ],
+                "鍵盤": [
+                    { "加購": 1000 },
+                    { "不加購": 0 }
+                ]
+            },
+            "換購方案": [
+                {
+                    "方案": "不加入換購方案",
+                    "優惠": 0
+                }, {
+                    "方案": "加入換購方案",
+                    "優惠": -1200
+                }
+            ],
+            "價格": "19900"
+        }
+    ],
+    "iphone" :  [
+        {
+            "SKU": "iPhone 13mini",
+            "裝置": "5.4吋",
+            "圖片": [
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-blue.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-blue_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-blue_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-blue-202108.jpg",
+                    "顏色": "藍色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-pink.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-pink_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-pink_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-pink-202108.jpg",
+                    "顏色": "粉紅色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-midnight.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-midnight_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-midnight_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-midnight-202108.jpg",
+                    "顏色": "午夜黑"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-starlight.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-starlight_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-starlight_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-starlight-202108.jpg",
+                    "顏色": "星光色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-green.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-green_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-green_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-green-202203.jpg",
+                    "顏色": "綠色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-product-red.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-product-red_AV1.jpg", "./iPhone13/Mini/iphone-13-finish-select-202207-5-4inch-product-red_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-product-red-202108.jpg",
+                    "顏色": "(PRODUCT)RED"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "64GB",
+                    "價格": 1000
+                },
+                {
+                    "大小": "128GB",
+                    "價格": 2000
+                },
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "換購方案": [
+                {
+                    "方案": "不加入換購方案",
+                    "優惠": 0
+                }, {
+                    "方案": "加入換購方案",
+                    "優惠": -1200
+                }
+            ],
+            "價格":
+                "20900"
+        }, {
+            "SKU": "iPhone 13",
+            "裝置": "6.1吋",
+            "圖片": [
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-blue.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-blue_AV1.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-blue_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-blue-202108.jpg",
+                    "顏色": "藍色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-pink.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-pink_AV1.jpg ", "./iPhone13/iphone-13-finish-select-202207-6-1inch-pink_AV2.jpg "],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-pink-202108.jpg",
+                    "顏色": "粉紅色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-midnight.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-midnight_AV1.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-midnight_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-midnight-202108.jpg",
+                    "顏色": "午夜色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-starlight.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-midnight_AV1.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-midnight_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-starlight-202108.jpg",
+                    "顏色": "星光色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-green.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-green_AV1.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-green_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-green-202203.jpg",
+                    "顏色": "綠色"
+                },
+                {
+                    "裝置圖片": ["./iPhone13/iphone-13-finish-select-202207-6-1inch-product-red.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-product-red_AV1.jpg", "./iPhone13/iphone-13-finish-select-202207-6-1inch-product-red_AV2.jpg"],
+                    "顏色圖片": "./iPhone13/iphone-13-finish-product-red-202108.jpg",
+                    "顏色": "(PRODUCT)RED"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "64GB",
+                    "價格": 1000
+                },
+                {
+                    "大小": "128GB",
+                    "價格": 2000
+                },
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "換購方案": [
+                {
+                    "方案": "不加入換購方案",
+                    "優惠": 0
+                }, {
+                    "方案": "加入換購方案",
+                    "優惠": -1200
+                }
+            ],
+            "價格": "24900"
+        }
+    ],
+    "macbook" : [
+        {
+            "SKU": "MackBook 13吋",
+            "裝置": "13吋",
+            "圖片": [
+                {
+                    "裝置圖片": ["./MackBook/mbp-spacegray-select-202206_GEO_TW_13.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-silver-select-202110_SW_COLOR.jpg",
+                    "顏色": "太空灰"
+                },
+                {
+                    "裝置圖片": ["./MackBook/mbp-silver-select-202206_GEO_TW_13.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-spacegray-select-202110_SW_COLOR.jpg",
+                    "顏色": "銀色"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "記憶體裝置": [
+                {
+                    "大小": "8GB",
+                    "優惠": 0
+                }, {
+                    "大小": "16GB",
+                    "優惠": 1000
+                },
+                {
+                    "大小": "32GB",
+                    "優惠": 1000
+                },
+                {
+                    "大小": "64GB",
+                    "優惠": 1000
+                }
+            ],
+            "價格": "39900"
+        },
+        {
+            "SKU": "MackBook 14吋",
+            "裝置": "14吋",
+            "圖片": [
+                {
+                    "裝置圖片": ["./MackBook/mbp14-silver-select-202110_GEO_TW_14.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-silver-select-202110_SW_COLOR.jpg",
+                    "顏色": "太空灰"
+                },
+                {
+                    "裝置圖片": ["./MackBook/mbp14-spacegray-select-202110_GEO_TW_14.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-spacegray-select-202110_SW_COLOR.jpg",
+                    "顏色": "銀色"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "記憶體裝置": [
+                {
+                    "大小": "8GB",
+                    "優惠": 0
+                }, {
+                    "大小": "16GB",
+                    "優惠": 1000
+                },
+                {
+                    "大小": "32GB",
+                    "優惠": 1000
+                },
+                {
+                    "大小": "64GB",
+                    "優惠": 1000
+                }
+            ],
+            "價格": "59900"
+        },
+        {
+            "SKU": "MackBook 16吋",
+            "裝置": "16吋",
+            "圖片": [
+                {
+                    "裝置圖片": ["./MackBook/mbp16-spacegray-select-202110_GEO_TW.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-silver-select-202110_SW_COLOR.jpg",
+                    "顏色": "太空灰"
+                },
+                {
+                    "裝置圖片": ["./MackBook/mbp16-silver-select-202110_GEO_TW.jpg"],
+                    "顏色圖片": "./MackBook/mbp14-spacegray-select-202110_SW_COLOR.jpg",
+                    "顏色": "銀色"
+                }
+            ],
+            "儲存裝置": [
+                {
+                    "大小": "256GB",
+                    "價格": 4000
+                },
+                {
+                    "大小": "512GB",
+                    "價格": 8000
+                },
+                {
+                    "大小": "1TB",
+                    "價格": 16000
+                }
+            ],
+            "記憶體裝置": [
+                {
+                    "大小": "8GB",
+                    "優惠": 0
+                }, {
+                    "大小": "16GB",
+                    "優惠": 1000
+                },               
+                {
+                    "大小": "32GB",
+                    "優惠": 1000
+                },
+                {
+                    "大小": "64GB",
+                    "優惠": 1000
+                }
+            ],
+            "價格": "74900"
+        }
+    ]
+}
