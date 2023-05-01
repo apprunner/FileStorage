@@ -19,6 +19,10 @@ GO
 SET DATEFORMAT mdy
 GO
 
+use master
+go
+create database Northwind
+
 go
 if exists (select * from sysobjects where id = object_id('dbo.Employee Sales by Country') and sysstat & 0xf = 4)
 	drop procedure "dbo"."Employee Sales by Country"
