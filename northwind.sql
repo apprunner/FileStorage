@@ -3,6 +3,13 @@
 ** All Rights Reserved.
 */
 
+use master
+create database Northwind
+go
+
+use northwind
+go
+
 -- This script does not create a database.
 -- Run this script in the database you want the objects to be created.
 -- Default schema is dbo.
